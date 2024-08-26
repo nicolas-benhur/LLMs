@@ -1,2 +1,2 @@
-Notebooks related to the course Finetuning Large Language Models by DeepLearning.AI
+Notebooks related to the Finetuning Large Language Models course by DeepLearning.AI
 and some modifications I made myself
